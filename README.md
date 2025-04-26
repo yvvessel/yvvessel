@@ -2,6 +2,6 @@
 <!--
 **yvvessel/yvvessel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/3p1wCo1LLu41XK83rHO4K8?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=3153v7c54mxtnqcioxrfpw5ac7dy&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=3153v7c54mxtnqcioxrfpw5ac7dy&redirect=true)
 
 -->
